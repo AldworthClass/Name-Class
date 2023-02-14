@@ -9,6 +9,8 @@
             Console.WriteLine(teacher.FirstName);
             teacher.FirstName = "Steven";
             Console.WriteLine(teacher);
+            Console.WriteLine(teacher.LastName);
+
 
         }
     }
